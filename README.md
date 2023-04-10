@@ -22,4 +22,7 @@ This is a landing page project built with HTML, CSS, and JavaScript. The page is
 <img src="https://www.linkpicture.com/q/ScreenshotC2-2023-04-10-154552.png" height="100%" width="100%" alt="Home Page"/>
 <img src="https://www.linkpicture.com/q/ScreenshotC3-2023-04-10-154632_1.png" height="100%" width="100%" alt="Home Page"/>
 <img src="https://www.linkpicture.com/q/ScreenshotC4-2023-04-10-154713_3.png" height="100%" width="100%" alt="Home Page"/>
+<img src="https://www.linkpicture.com/q/ScreenshotC5-2023-04-10-154752.png" height="100%" width="100%" alt="Home Page"/>
+<img src="https://www.linkpicture.com/q/ScreenshotC6-2023-04-10-154822.png" height="100%" width="100%" alt="Home Page"/>
+
 
