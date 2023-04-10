@@ -19,3 +19,4 @@ This is a landing page project built with HTML, CSS, and JavaScript. The page is
 ## Website walk-through:
 
 <img src="https://www.linkpicture.com/q/ScreenshotC1-2023-04-10-154519.png" height="100%" width="100%" alt="Home Page"/>
+<img src="https://www.linkpicture.com/q/ScreenshotC2-2023-04-10-154552.png" height="100%" width="100%" alt="Home Page"/>
